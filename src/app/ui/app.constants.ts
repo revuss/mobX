@@ -1,0 +1,14 @@
+export const NAV_TITLE = "MONSOON MAI HOT OFFER, 70% OFF";
+export const VISIT_STORE = "Visit MobiXpress Store ";
+export const CLICK_NOW = "Click Now";
+export const TERMS_AND_CONDITIONS = "T&C apply";
+export const HOME = "Home";
+export const MOBI_STORE = "MobiXpress Store";
+export const MY_ORDER = "My Order";
+export const EXCHANGE = "Exchange";
+export const ACCESSORIES = "Accessories";
+export const HOT_DEALS = "Hot Deals";
+export const LOGIN = "Login";
+export const TRENDING = "Trending";
+export const PRODUCT = "Product";
+export const SECURE_PAY = "Secured Payment";
